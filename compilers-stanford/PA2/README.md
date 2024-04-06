@@ -1,1 +1,1 @@
-In this assigment you have to write scanner for COOL using flex.
+In this assignment you have to write scanner for COOL using flex.
